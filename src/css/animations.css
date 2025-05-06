@@ -6,6 +6,7 @@
     transform: translateX(-104%) translateY(-50%);
   }
 }
+
 @keyframes stretch {
   from {
     opacity: 0;
